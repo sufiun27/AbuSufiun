@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abu Sufiun 👋
 
 I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of database management systems, including complex queries and database design. I excel in managing intricate and complex projects, as well as deploying projects from scratch. I possess in-depth knowledge of programming and problem-solving, and have experience as a Developer, Instructor, and Researcher. Additionally, I am proficient in AI and Machine Learning.
 
